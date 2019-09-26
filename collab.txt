@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 this is a change
 Hey Dan
 djkdjkldkjl
 Hi Casey
->>>>>>> ee4d36b6138a1f90c445c089c53854f447e5b882
